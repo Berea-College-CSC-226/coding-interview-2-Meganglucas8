@@ -1,6 +1,6 @@
 # Coding Interview 2
 
-Name: ________________________
+Name: ________Megan Lucas________________
 
 ## Instructions
 
